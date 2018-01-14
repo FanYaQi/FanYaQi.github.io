@@ -100,4 +100,4 @@ This is the YAML front matter block for blog posts.
 Please submit any issues [here](https://github.com/thomasvaeth/trophy-jekyll/issues).
 
 ## License
-Trophy is licensed under the MIT License.
+Trophy is licensed under the MIT License. And this is due to both angels! ^_^
